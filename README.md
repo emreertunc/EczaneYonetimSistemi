@@ -2,6 +2,7 @@
 Pharmacy Management System for local shops (school project)
 
 *tr*
+
 Bir okul projesi olarak hazırlanmış olan bu yazılım; aşağıdaki işlevleri sağlamayı hedefler:
 İlaç statüsünde satılmayan ve reçeteye tabi olmayan; başta gıda takviyeleri, güzellik ve temizlik ürünleri olmak üzere
 birçok ürünün stoklarının tutulması, satışının, alışının ve iadesinin yapılması, bunları mağazadan alan ve mağazaya satan kişi
@@ -14,6 +15,7 @@ Herhangi bir kısmı ya da tamamı izinsiz kullanılamaz.
 Dökümantasyon erişimi & izin için iletişim: ertuncemre@gmail.com
 
 *en*
+
 This software was made for a school assignment, and aimed to provide following functions to local pharmacy stores:
 
 keeping the stocks, selling, buying and returning of many variants of products (especially food supplements, beauty and cleaning products
