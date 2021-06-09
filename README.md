@@ -1,7 +1,7 @@
 # EczaneYonetimSistemi
 Pharmacy Management System for local shops (school project)
 
-*tr*
+-TR-
 
 Bir okul projesi olarak hazırlanmış olan bu yazılım; aşağıdaki işlevleri sağlamayı hedefler:
 İlaç statüsünde satılmayan ve reçeteye tabi olmayan; başta gıda takviyeleri, güzellik ve temizlik ürünleri olmak üzere
@@ -11,10 +11,12 @@ yapısı içerisinde saklanması.
 
 Programın tüm fonksiyonlarını kullanabilmek için bazı eklentilerin kurulması gerekmektedir.
 
-Herhangi bir kısmı ya da tamamı izinsiz kullanılamaz.
-Dökümantasyon erişimi & izin için iletişim: ertuncemre@gmail.com
+Feel free to provide feedback or suggestions.
 
-*en*
+Herhangi bir kısmı ya da tamamı izinsiz kullanılamaz.
+Dökümantasyon erişimi & izin için iletişim: emre@ertunc.com / linkedin
+
+-EN-
 
 This software was made for a school assignment, and aimed to provide following functions to local pharmacy stores:
 
@@ -25,5 +27,7 @@ database structure.
 
 There are some add-ons needed for full functionality.
 
+Her türlü geri bildirim veya öneriye açığım.
+
 Cannot be used or copied without permission.
-Contact for documentation & permission access: ertuncemre@gmail.com
+Contact for documentation & permission access: emre@ertunc.com / linkedin
